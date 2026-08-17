@@ -1,0 +1,11 @@
+{
+  "title": "Ishraq",
+  "description": "Ishraq offers personalized learning paths and resources to help students enhance their skills and achieve academic success efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
