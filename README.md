@@ -77,6 +77,3 @@ Screenshots of the Ishraq application will be added here.
 
 The interactive version of Ishraq will be available through GitHub Pages.
 
----
-
-> **Learn. Play. Grow.**ر
